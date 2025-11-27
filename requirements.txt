@@ -1,0 +1,11 @@
+﻿torch
+torchvision
+torchaudio
+timm==1.0.9
+albumentations==1.3.1
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+tqdm==4.66.4
+python-dotenv==1.0.1
